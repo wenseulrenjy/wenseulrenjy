@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The repository below is my first team project at Waffle College!
+The repository below is my first team project,which I worked on at Waffle College!
 https://github.com/WaffleCollege/debuggers/tree/development
 
 
